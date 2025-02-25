@@ -1,0 +1,129 @@
+.purchase {
+    margin-top: 90px;
+}
+
+.form {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.purchase__content {
+    width: 50%;
+}
+
+.purchase__content--product {
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: solid 1px black;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+}
+
+.purchase__content--product_detail {
+    margin-left: 50px;
+}
+
+.purchase__content--payment {
+    border-bottom: solid 1px black;
+        padding-bottom: 50px;
+}
+
+.purchase__content--product_name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.purchase__content--product_price {
+    font-size: 27px;
+}
+
+.purchase__content--payment_title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 35px;
+}
+
+.form__payment--select {
+    width: 40%;
+    height: 30px;
+    margin-left: 95px;
+    font-weight: bold;
+    color: #5F5F5F;
+}
+
+.form__payment--select_tag {
+    display: none;
+}
+
+.purchase__content--address {
+    border-bottom: solid 1px black;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+.purchase__content--address_menu {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.purchase__content--address_title {
+    margin-left: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.purchase__content--address_edit   {
+    margin-right: 35px;
+    font-size: 20px;
+}
+
+.purchase__content--address_edit-link {
+    text-decoration: none;
+    color: #0073CC;;
+}
+
+.purchase__content--address-home {
+    margin-left: 95px;
+    font-weight: bold;
+}
+
+.purchase__confirmation {
+    width: 30%;
+}
+
+.purchase__confirmation--table {
+    width: 90%;
+}
+
+.purchase__confirmation--table_content {
+    border: solid 1px black;
+}
+
+.purchase__confirmation--table_content-title {
+    font-weight: normal;
+    font-size: 20px;
+    height: 115px;
+
+}
+
+.purchase__confirmation--table_content-detail {
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.form__button--submit {
+    width: 90%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #FF5555;
+    color: #fff;
+    font-weight: bold;
+    font-size: 26px;
+    cursor: pointer;
+    margin-top: 40px;
+}

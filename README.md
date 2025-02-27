@@ -48,7 +48,7 @@
 # テーブル設計
 
 
-<img width="758" alt="Image" src="https://github.com/user-attachments/assets/9503e765-f020-4ae6-8d41-8d5d58b9fe8d" />
+<img width="760" alt="Image" src="https://github.com/user-attachments/assets/713df927-51cb-4b5c-abfd-1af737c9a5b2" />
 
 
 <img width="758" alt="Image" src="https://github.com/user-attachments/assets/f2eaefba-13a1-4298-8a80-f23c63b18d0f" />
